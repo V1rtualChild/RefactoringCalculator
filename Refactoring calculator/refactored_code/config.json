@@ -1,0 +1,13 @@
+{
+  "prompts": {
+    "enter": "Введіть",
+    "operation": "Оберіть операцію (+, -, *, /)",
+    "invalid": "Невірний ввід!"
+  },
+  "results": {
+    "template": "Результат:"
+  },
+  "limits": {
+    "max_input": 1000
+  }
+}
